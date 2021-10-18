@@ -3,7 +3,7 @@
     "description": "quete sur composer",
     "autoload": {
         "psr-4": {
-            "Wcs\\ComposerQuetes\\": "src/wcs/hello.php"
+            "App\\": "src/"
         }
     },
     "require": {}
